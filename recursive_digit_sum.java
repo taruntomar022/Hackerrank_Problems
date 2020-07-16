@@ -25,6 +25,6 @@ public static void main(String[] args) {
         String fn = ""+res*k;
 
         sum(fn,1);
-    
+     
  }
 }
